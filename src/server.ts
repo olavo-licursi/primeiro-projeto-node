@@ -11,5 +11,5 @@ app.use(express.json());
 app.use(routes);
 
 app.listen(3333, () => {
-    console.log('O PAI TA ON na porta 3333');
+    console.log('ONLINE na porta 3333');
 });
